@@ -52,7 +52,8 @@ h2 {
 }
 .menu a:hover {
   cursor: pointer;
-  color: darkcyan;
+  color: black;
+  transition: 1s;
 }
 
 li{
